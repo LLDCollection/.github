@@ -1,12 +1,9 @@
-## Hi there 👋
+## Welcome to LLDCollection
+LLDCollection has been created as an aim to provide the most used low level design patterns along with the most asked low level design problems at a single place.
 
-<!--
+LLDCollection takes a hands on appraoch on low level design, where the aim is to tackle a problem and solve it using the appropriate design pattern.
 
-**Here are some ideas to get you started:**
+There are repositories for different languages. Feel free to contribute to them and help build a great LLD Collection!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How to contribute
+You can start by looking at https://github.com/LLDCollection/ProblemStatements/blob/main/README.md and checkout which problem needs to be implemented in your favorite language. Otherwise, you can even add a new problem statement and implement it.
